@@ -15,5 +15,12 @@
       <guid>https://example.org/posts/my-first-post/</guid>
       <description>&lt;p&gt;Hello&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>My Second Post</title>
+      <link>https://example.org/posts/my-second-post/</link>
+      <pubDate>Wed, 13 Nov 2024 11:33:35 +0100</pubDate>
+      <guid>https://example.org/posts/my-second-post/</guid>
+      <description>&lt;p&gt;This is my second post written from a bash shell&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
