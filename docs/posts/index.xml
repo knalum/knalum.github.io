@@ -2,18 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on knalums space</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://knalum.github.io/posts/</link>
     <description>Recent content in Posts on knalums space</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jan 2025 07:44:12 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello World!</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Fri, 31 Jan 2025 07:44:12 +0100</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;p&gt;Writing a blog is not something I have done before, but I will try to keep up with it this year, as a new years resolution. The content will likely be focused on tech but occasionally on other stuff as well.&lt;/p&gt;&#xA;&lt;p&gt;The blog is created with &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; and hosted on GitHub spaces. A combination which makes it easy to own your content in case of self-hosting or migrating content elsewhere.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://knalum.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
