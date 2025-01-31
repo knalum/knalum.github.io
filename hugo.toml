@@ -1,6 +1,5 @@
-baseURL = 'https://knalum.github.io'
+baseURL = 'https://knalum.github.io/'
 languageCode = 'en-us'
-title = 'knalums space'
+title = 'knalum.github.io'
 theme = 'ananke'
-publishDir = "docs"
-name ="Knalum"
+publishDir = 'docs'

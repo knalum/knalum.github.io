@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on knalums space</title>
+    <title>Tags on knalum.github.io</title>
     <link>https://knalum.github.io/tags/</link>
-    <description>Recent content in Tags on knalums space</description>
+    <description>Recent content in Tags on knalum.github.io</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://knalum.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
