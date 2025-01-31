@@ -6,7 +6,14 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 07:44:12 +0100</lastBuildDate>
     <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World!</title>
+      <link>https://example.org/posts/hello-world/</link>
+      <pubDate>Fri, 31 Jan 2025 07:44:12 +0100</pubDate>
+      <guid>https://example.org/posts/hello-world/</guid>
+      <description>&lt;p&gt;Writing a blog is not something I have done before, but I will try to keep up with it this year, as a new years resolution. The content will likely be focused on tech but occasionally on other stuff as well.&lt;/p&gt;&#xA;&lt;p&gt;The blog is created with &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; and hosted on GitHub spaces. A combination which makes it easy to own your content in case of self-hosting or migrating content elsewhere.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
